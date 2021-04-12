@@ -5,3 +5,7 @@
 
 ### Runtime for the ruby eval goes from ~3400 ms to 340 ms. 
 ### For Python around  ~6300 to ~600 ms (high variance)
+
+
+### Ran with:
+```js --polyglot --jvm polyglot.js```
