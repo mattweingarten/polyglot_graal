@@ -1,4 +1,4 @@
-##GraalVM Polyglot example program
+# GraalVM Polyglot example program
 
 ### Just playing around with runtimes in JIT compiler, 
 ### super inaccurate obviously
